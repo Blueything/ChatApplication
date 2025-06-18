@@ -1,9 +1,8 @@
-# ChatApplication
-Real-Time Distributed Chat Application
-![chatApp_websockets](https://github.com/user-attachments/assets/c22cdc6f-65e8-49f0-8aa6-46ec3aeddeee)
-# 💬 Real-Time Chat Bot (WhatsApp Clone)
 
-![Chat Preview](./assets/chat-ui-preview.png)
+
+# 💬 Real-Time Chat Bot (WhatsApp Clone)
+![chatApp_websockets](https://github.com/user-attachments/assets/c22cdc6f-65e8-49f0-8aa6-46ec3aeddeee)
+
 
 A full-stack real-time chat application that replicates the WhatsApp experience using WebSockets. Built for speed, scalability, and responsiveness, this project demonstrates bi-directional communication, user authentication, and a sleek chat interface — ideal for production-scale messaging apps.
 
